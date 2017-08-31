@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iasb</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_birth_day">BirthDay</string>
+    <string name="title_activity_birthday">Birthday</string>
+
+
+    <string name="birthday_text">days from birth date</string>
+</resources>

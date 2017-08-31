@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Tools" />
+        </menu>
+    </item>
+    <item android:title="Developers choice">
+        <menu>
+            <item
+                android:id="@+id/nav_days"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Import" />
+        </menu>
+    </item>    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+    <item android:title="Improve">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@android:drawable/edit_text"
+                android:title="Feedback"/>
+
+        </menu>
+    </item>
+
+</menu>
